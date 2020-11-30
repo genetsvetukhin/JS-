@@ -39,7 +39,7 @@ let pageSlider = new Swiper('.page',{
         el: ".page__pagination",
         type: 'bullets',
         clickable: true,
-        bulletClass: 'page__bullet_active',
+        bulletClass: 'page__bullet',
         bulletActiveClass: 'page__bullet_active'
     },
 
