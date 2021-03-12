@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style: none;
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+header {
+    width: 100%;
+    text-align: center;
+    color:rgb(160, 66, 66);
+    background-color: rgb(66, 56, 56);
+}
+.content {
+    width: 350px;
+    background-color: rgb(82, 31, 31);
+}
